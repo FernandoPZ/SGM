@@ -6,6 +6,10 @@ usuario
 >cve_tipo
 >activo
 
+tipo
+>cve_tipo
+>nomtipo
+
 cliente
 >cve_cliente
 >nombre
@@ -40,4 +44,4 @@ trabajo
 >activo
 
 --- Estructura de la BD ---
-Ultima modificacion -- [06/09/2022 (13:40 hrs)]
+Ultima modificacion -- [06/09/2022 (14:00 hrs)]
